@@ -1,0 +1,105 @@
+Here is your brief, well-structured portfolio prompt for Replit, covering every aspect of your resume clearly. You can use this as your guiding script while building:
+
+Portfolio Prompt for Replit
+📝 Title:
+
+Dileep Kumar Sasanapuri – Full Stack Developer | AI/ML Enthusiast
+
+Introduction / About Me Section
+👋 Hi, I’m Dileep Kumar Sasanapuri.
+I am a Computer Science undergraduate at VIT-AP University (CGPA: 9.45) with a strong foundation in full-stack web development and AI/ML. My passion lies in building impactful projects, from brain tumor detection models to learning management systems.
+
+🔗 Links:
+
+📧 dileepkumarsasanapuri@gmail.com
+
+💼 LinkedIn
+
+💻 GitHub
+
+🎖️ Credly Certifications
+
+Education
+🎓 Bachelor of Technology – Computer Science and Engineering
+VIT-AP University (2022 – 2026) | CGPA: 9.45 | Amaravati, Andhra Pradesh
+
+📖 Intermediate (MPC)
+Narayana Junior College (2020 – 2022) | CGPA: 9.53 | Visakhapatnam, Andhra Pradesh
+
+Relevant Coursework
+✔️ Data Structures and Algorithms
+✔️ Machine Learning
+✔️ Deep Learning
+✔️ MERN Stack Development
+✔️ Database Management Systems
+✔️ Operating Systems
+✔️ Computer Networks
+✔️ OOP Concepts
+
+Experience
+💼 CodSoft Virtual Internship | Web Development Intern (Jan 2024 – Feb 2024)
+
+Developed a responsive landing page, calculator application, and personal portfolio using HTML, CSS, and JavaScript.
+
+Enhanced practical skills in front-end development and web design.
+
+Projects
+🧠 Brain Tumor Classification & Detection (Feb 2025)
+Technologies: VGG16, YOLOv8, Python
+
+Built a brain tumor detection system achieving 86.42% classification accuracy with VGG16 and 95.9% detection mAP@0.5 with YOLOv8.
+
+Integrated image upload to detect and classify tumors into Glioma, Meningioma, Pituitary, No Tumor.
+
+🔗 GitHub Repository
+
+🔗 Deployed YOLO Model
+
+👤 Face Detection Using ML (Oct 2024)
+Technologies: Python, OpenCV, Flask, face_recognition
+
+Developed a real-time face recognition system with webcam integration.
+
+Enabled live video streaming, face addition, and uploads with encoded facial data storage.
+
+🔗 GitHub Repository
+
+📚 Learning Management System (June 2024)
+Technologies: MongoDB, Express.js, React.js, Node.js
+
+Implemented secure user authentication with OTP and email verification.
+
+Designed features for course browsing, enrolment, and management with efficient API routing and MongoDB storage.
+
+🔗 Frontend Repository
+
+🔗 Backend Repository
+
+Technical Skills
+💻 Languages: Python, Java, HTML/CSS, JavaScript, SQL, React.js
+🔧 Developer Tools: VS Code, Eclipse, Jupyter Notebook, PyCharm, IntelliJ
+⚙️ Frameworks & Technologies: GitHub, MERN Stack, Basic Spring Boot
+
+Extracurricular
+📸 Photography Club (2024 – Present)
+Team Member at VIT-AP University
+
+Gaining expertise in photography techniques and editing.
+
+End Note
+✅ “I believe in building practical solutions backed by strong technical knowledge. Let’s connect and create something impactful together.”
+
+Usage
+You can use each section as a separate Replit component/page:
+
+Home (About)
+
+Education
+
+Experience
+
+Projects
+
+Skills
+
+Contact
