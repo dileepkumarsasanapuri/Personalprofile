@@ -14,7 +14,7 @@ export default function ProjectsSection() {
     {
       title: "Face Detection Using ML",
       description: "Developed a real-time face recognition system with webcam integration, enabling live video streaming and face addition capabilities.",
-      image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=400",
+      image: "https://images.unsplash.com/photo-1619324786147-702fd4261b42?auto=format&fit=crop&w=800&h=400",
       technologies: ["OpenCV", "Flask", "Python"],
       icon: Shield,
       github: "https://github.com/dileepkumarsasanapuri/facedetection"

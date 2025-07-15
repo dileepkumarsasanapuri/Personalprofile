@@ -1,4 +1,5 @@
 import { Mail, Linkedin, Github } from "lucide-react";
+import mereface from '../mereface.jpg';
 
 export default function AboutSection() {
   return (
@@ -10,7 +11,7 @@ export default function AboutSection() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=800"
+                  src={mereface}
                   alt="Dileep Kumar Sasanapuri"
                   className="rounded-xl shadow-lg w-full h-80 object-cover"
                 />

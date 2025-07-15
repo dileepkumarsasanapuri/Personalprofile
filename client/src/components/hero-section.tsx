@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section id="home" className="min-h-screen flex items-center justify-center text-center px-6">
       <div className="max-w-4xl mx-auto fade-in">
         <h1 className="text-5xl md:text-7xl font-bold mb-6">
-          Hello, I'm <span className="text-[hsl(0,84%,60%)]">Dileep</span>.
+          Hello, I'm <span className="text-[hsl(0,84%,60%)]">Dileep Kumar</span>.
         </h1>
         <p className="text-xl md:text-2xl text-[hsl(215,13%,65%)] mb-8">
           I'm a full stack web developer & AI/ML enthusiast.

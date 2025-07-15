@@ -1,4 +1,5 @@
 import { Mail, Phone, Linkedin, Github, Award, Download } from "lucide-react";
+import { Eye } from "lucide-react";
 
 export default function ContactSection() {
   return (
@@ -55,16 +56,17 @@ export default function ContactSection() {
               </a>
             </div>
             
-            <div className="pt-6 border-t border-[hsl(215,27%,33%)]">
-              <a
-                href="/resume.pdf"
-                download="Dileep_Kumar_Sasanapuri_Resume.pdf"
-                className="inline-flex items-center px-8 py-3 bg-[hsl(0,84%,60%)] text-white hover:bg-red-600 transition-colors rounded-lg"
-              >
-                <Download className="mr-2" size={20} />
-                Download Resume
-              </a>
-            </div>
+        <div className="pt-6 border-t border-[hsl(215,27%,33%)]">
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center px-8 py-3 bg-[hsl(0,84%,60%)] text-white hover:bg-red-600 transition-colors rounded-lg"
+            >
+              <Eye className="mr-2" size={20} />
+              View Resume
+            </a>
+          </div>
           </div>
         </div>
       </div>

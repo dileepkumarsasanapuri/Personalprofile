@@ -19,7 +19,7 @@ export default function Navigation() {
       <div className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="text-xl font-bold">
-            <span className="text-[hsl(0,84%,60%)]">Dileep</span> Kumar
+            <span className="text-[hsl(0,84%,60%)]">Dileep Kumar </span> Sasanapuri
           </div>
           
           {/* Desktop Navigation */}
