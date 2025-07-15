@@ -9,7 +9,7 @@ export default function ProjectsSection() {
       technologies: ["VGG16", "YOLOv8", "Python"],
       icon: Brain,
       github: "https://github.com/dileepkumarsasanapuri/BrainTumor_Classification_Detection_VGG16_Yolo",
-      demo: "https://github.com/dileepkumarsasanapuri/Yolo_model"
+      demo: "https://huggingface.co/spaces/Dileepkumar46/braintumordetection_YOLO"
     },
     {
       title: "Face Detection Using ML",
